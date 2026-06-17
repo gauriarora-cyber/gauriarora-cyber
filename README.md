@@ -17,7 +17,7 @@
 class GauriArora {
   name = "Gauri Arora";
   title = "Developer | Tech Explorer";
-  skills = ["HTML", "CSS", "Java", "JavaScript", "AI", "Blockchain"];
+  skills = ["HTML", "CSS", "Java", "JavaScript", "AI", "Blockchain","Bootstrap","Flask Api"];
   currentlyLearning = ["JavaScript", "AI", "Blockchain"];
   funFact = "I believe in the magic of technology and lifelong learning!";
 }
